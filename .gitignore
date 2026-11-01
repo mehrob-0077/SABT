@@ -1,0 +1,6 @@
+server/settings.py
+.env
+.venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
